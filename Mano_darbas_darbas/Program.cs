@@ -11,10 +11,10 @@ namespace Mano_darbas_darbas
             Console.WriteLine("Iveskite antra skaiciu");
             int y = int.Parse(Console.ReadLine());
             Parametras(x, y);
-
+            string vardas = Environment.UserName;
             for (int i = 0; i < 100; i++)
             {
-                Console.WriteLine("Jonas Petraska");
+                Console.WriteLine(vardas);
             }
 
         }
