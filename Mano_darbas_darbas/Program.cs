@@ -12,6 +12,11 @@ namespace Mano_darbas_darbas
             int y = int.Parse(Console.ReadLine());
             Parametras(x, y);
 
+            for (int i = 0; i < 100; i++)
+            {
+                Console.WriteLine("Jonas");
+            }
+
         }
        static void Parametras(int a, int b)
        {
