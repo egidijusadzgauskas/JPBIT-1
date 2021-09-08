@@ -14,7 +14,7 @@ namespace Mano_darbas_darbas
 
             for (int i = 0; i < 100; i++)
             {
-                Console.WriteLine("Jonas");
+                Console.WriteLine("Jonas Petraska");
             }
 
         }
